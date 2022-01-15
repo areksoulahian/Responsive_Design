@@ -5,3 +5,6 @@
 A responsive portfolio landing page 
 
 using CSS grid and Media Queries
+
+![Landing Page Template]<img width="1440" alt="" src="https://user-images.githubusercontent.com/11644102/149616381-796f91bb-14e4-4c46-92ef-095cebba941f.png">
+
